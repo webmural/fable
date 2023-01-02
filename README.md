@@ -1,5 +1,3 @@
-# [formula](index.html)
+## [hyper](index.html) [fable](fable.css) [facet](facet.css)
 
-* [MathML](https://mdn.io/mathml)
-* [HTML](https://webmural.com/html)
-* [CSS](https://webmural.com/css)
+https://webmural.com/fable
