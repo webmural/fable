@@ -1,0 +1,11 @@
+html { font-size: max(1em, 3vmax) }
+h1 { font-size: max(1em, 8vmax) }
+abbr { font-weight: bold }
+body {
+  display: flex;
+  flex-flow: column;
+  line-height: 1.618;
+  margin: max(20pt, 5vmax);
+  margin-block-end: auto;
+  overflow-wrap: anywhere;
+}

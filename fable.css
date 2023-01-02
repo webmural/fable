@@ -1,0 +1,21 @@
+::selection {
+  background: hotpink;
+  color: black;
+}
+
+:root {
+  color: hotpink;
+  background: #111;
+}
+
+:any-link {
+  color: salmon;
+}
+
+:focus {
+  outline: thick dotted salmon;
+  text-shadow:
+    -5px 0 0 darkmagenta,
+    3px 3px 0 hotpink,
+    3px -3px 0 salmon;
+}
