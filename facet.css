@@ -1,4 +1,4 @@
-html { font-size: max(1em, 3vmax) }
+html { font-size: max(3ex, 3vmax) }
 h1 { font-size: max(1em, 8vmax) }
 abbr { font-weight: bold }
 body {
